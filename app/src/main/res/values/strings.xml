@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dictionary Application</string>
+    <string name="enter">Enter Text</string>
+    <string name="no_definition">No Definitions Found</string>
+    <string name="todo">TODO</string>
+    <string name="example">Example: </string>
+</resources>
